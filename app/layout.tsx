@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://aman-singh-negi-portfolio.vercel.app",
+    url: "https://amannegi.netlify.app",
     title: "Aman Singh Negi - Full-Stack Developer Portfolio",
     description:
       "Passionate software developer specializing in Java and Angular, building scalable and intuitive digital solutions.",
